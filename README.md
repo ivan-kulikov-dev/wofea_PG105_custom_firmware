@@ -6,6 +6,6 @@
     - WIFI MPN: HF-LPB130-1
     - RFID LM358/96M/17226  - 125 kHz RFID
     - 433 mg hz CMT2210LB-ESR receiver
-    - ?? transmitter
+    - 433 mg transmitter (smd chip 0A8Q3) like https://github.com/nbergont/wofea_v10_hack
     - battary 500 mAh with SC-J27D-1 controller
 
