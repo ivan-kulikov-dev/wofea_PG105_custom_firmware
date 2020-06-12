@@ -2,7 +2,7 @@
 
 - Hardware wofea PG105
     - CPU arm GD32F105/RCTb/CE93266/AJ1919
-    - ROM XMC QH64AHIG
+    - ROM XMC QH64AHIG (read as EON, XMC 25QH64 in CH341Programmer_v1.38?)
     - GSM Quectel M26/FB Q1-A2417/M26FB-03-TTS
     - NXP 74HC595D chip for lcd screen?
     - holtek BS83B16C as Touch Flash MCU (keyboard controller)
