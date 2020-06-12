@@ -11,4 +11,6 @@
     - 433 mg hz CMT2210LB-ESR receiver
     - 433 mg transmitter (smd chip 0A8Q3) like https://github.com/nbergont/wofea_v10_hack
     - battary 500 mAh with SC-J27D-1 controller
+    
+ <img src="pics/back.jpg" alt="drawing" width="1000"/>
 
