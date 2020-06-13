@@ -13,4 +13,8 @@
     - battary 500 mAh with SC-J27D-1 controller
     
  <img src="pics/back.jpg" alt="drawing" width="1000"/>
+ 
+ <img src="pics/GD32F105Rx.PNG" alt="GD32F105Rx cpu" width="1000"/>
+ 
+ 
 
