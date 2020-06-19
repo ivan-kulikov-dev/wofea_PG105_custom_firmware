@@ -16,5 +16,9 @@
  
  <img src="pics/GD32F105Rx.PNG" alt="GD32F105Rx cpu" width="1000"/>
  
+ | arm pin  | dest conn |
+ |----------|-----------|
+ | PA10 (43)| DEBUG_RX  |
+ | PA9  (42)| DEBUG_TX  |
  
 
