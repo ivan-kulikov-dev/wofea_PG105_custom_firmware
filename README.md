@@ -12,6 +12,8 @@
     - 433 mg transmitter (smd chip 0A8Q3) like https://github.com/nbergont/wofea_v10_hack
     - battary 500 mAh with SC-J27D-1 controller
     
+ <img src="pics/front.jpg" alt="drawing" width="700"/>
+    
  <img src="pics/back.jpg" alt="drawing" width="1000"/>
  
  <img src="pics/GD32F105Rx.PNG" alt="GD32F105Rx cpu" width="1000"/>
